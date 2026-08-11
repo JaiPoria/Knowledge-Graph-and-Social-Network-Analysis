@@ -14,4 +14,8 @@
 7. Community detection (greedy modularity maximization - approximates Barber 2007)
 8. Interactive HTML visualisation
 
-
+## Workbook
+1. This is the raw data file and the formatting that should be followed for future workbooks.
+2. README sheet contains necessary information to understand the workbook.
+3. All green headers are not meant for the MSc Dissertation, it is for future use. If you are viewing it in regards to the Dissertation please ignore any information in the green headers.
+4. The file may take sometime to load. If you are seeing empty sheets, this is probably why. Please give the file time to load.
